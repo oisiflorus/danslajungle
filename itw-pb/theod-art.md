@@ -10,15 +10,18 @@ J'ai mieux réussi à tenir le -timing-
   
 Les problèmes :  
 > nous trouvons qu’il est difficile de repérer des lieux qui répondent à ces deux critères  
+  
 Oui à Montpellier, la table d'épicure par exemple n'est pas connues, et je ne connais pas beaucoup de lieux  
 
-> on trouve certain lieux très agréable mais où il est dommage de constater des comportements pas eco ou pas friendly ?
+> on trouve certain lieux très agréable mais où il est dommage de constater des comportements pas eco ou pas friendly ?  
+  
 "Oui, c'est très dur d'entendre par exemple un patron mal parlé à ses employé.e.s"  
 "Je ne conseillerais pas <un lieu connu> par exemple"  
 Beaucoup de lieux comme le Bonobo, le Grams, pimpon, etc. sont -friendly-. -google- indique par exemple ce type de lieu lgbt+ friendly 
 
 > on pense qu’il est dificile pour les restaurateur et responsables de lieux d’aligner toutes leur pratiques sur des valeurs d’écologie pour des question de temps, de savoirs et de budgets  
 > J'ai raté ce problème, je suis parti sur : on pense que tu as des difficultés à trouver des partenaires ecofriendly ?  
+  
 Je travaille avec le CIC à taux égal je préférerais une banque solidaire
   
 J'ai noté :  
