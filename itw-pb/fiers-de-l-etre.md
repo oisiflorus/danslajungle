@@ -16,15 +16,18 @@ Pas très à l'aise avec les "data demographics", je verrais plus :
 - est-ce que tes pratiques professionnelles sont alignées sur les valeurs eco ? et friendly ?
   
 Les problèmes :  
-> on trouve certain lieux très agréable mais où il est dommage de constater des comportements pas eco ou pas friendly ?
+> on trouve certain lieux très agréable mais où il est dommage de constater des comportements pas eco ou pas friendly ?  
+
 "Oui, ça peut me faire péter un plomb"  
 Beaucoup de lieux sont eco et friendly surtout les lieux émergents
 
 > nous trouvons qu’il est difficile de repérer des lieux qui répondent à ces deux critères  
+
 Oui dans les autres villes mais pas à Montpellier, elles pouvaient identifiées facilement une trentaine de lieux  
 Il existe beaucoup d'initiative qui recenssent déjà : la graine, voyage actif - wondermeufs (?)
 
-> on pense qu’il est dificile pour les restaurateur et responsables de lieux d’aligner toutes leur pratiques sur des valeurs d’écologie pour des question de temps, de savoirs et de budgets  
+> on pense qu’il est dificile pour les restaurateur et responsables de lieux d’aligner toutes leur pratiques sur des valeurs d’écologie pour des question de temps, de savoirs et de budgets   
+
 J'ai raté ce problème, je suis parti sur : on pense que tu as des difficultés à trouver des partenaires ecofriendly ?
 - elles ne demandent pas à leur banque d'être alignée sur leurs valeurs, un bon taux suffira ;)  
 - entre un comptable ESS ou un comptable "libraire" elles ont préférées le second. Il reste quand même sensible au positionnement, sinon ça ne le ferait pas
