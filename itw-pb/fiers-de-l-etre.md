@@ -32,7 +32,7 @@ J'ai raté ce problème, je suis parti sur : on pense que tu as des difficultés
 - elles ne demandent pas à leur banque d'être alignée sur leurs valeurs, un bon taux suffira ;)  
 - entre un comptable ESS ou un comptable "libraire" elles ont préférées le second. Il reste quand même sensible au positionnement, sinon ça ne le ferait pas
 
-  
+Ce que je retiens :  
 - elles se sont positionnées sur l'ESS, leur modèle économique consiste à proposer des livres sur la transition autant écologique que comportementale.
 - elles pensent que l'un ne va pas sans l'autre.  
 - les structures ESS sont fragiles, c'est un problème  
