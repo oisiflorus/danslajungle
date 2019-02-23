@@ -34,5 +34,6 @@ J'ai noté :
 - j'utilise des blogs pour trouver des lieux : citycrunch, lapetitetable
 - je trouve qu'eco-friendly est bien compréhensible et ce sont bien les deux critères prioritaires
 - je suis très attentif à bien me comporter avec "mes" employé.e.s
-- ce n'est pas facile d'intéragir avec les autres restaurateurs, ils pensent par exemple qu'un livreur qui leur a fait un prix est difficile à conseiller
 
+https://citycrunch.fr  
+https://www.lespetitestables.com   

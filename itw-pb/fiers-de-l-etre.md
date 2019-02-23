@@ -44,3 +44,5 @@ Ce que je retiens :
 - elles font des conférences et diffusent beaucoup sur les réseaux sociaux  
 - elles ont fait une campagne de crowdfunding  
 - elles n'emploient que des femmes
+
+https://lagraine34.org/annuaire-des-prestataires  
