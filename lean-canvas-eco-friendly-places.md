@@ -7,7 +7,7 @@
 
 - Ca m'embête de constater ou d'être responsable de raports de domination (patron/salarié, genre, classe, race). 
 
-         - En tant que lieu ou restau friendly, ça m'embête de ne pas toujours être aligné au niveau eco avec les valeurs de mes clients, et que c'est pas agréable.
+    - En tant que lieu ou restau friendly, ça m'embête de ne pas toujours être aligné au niveau eco avec les valeurs de mes clients, et que c'est pas agréable.
     
 ### Alternatives
 
