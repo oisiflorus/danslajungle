@@ -55,6 +55,4 @@ Oui
 
 > Est ce que vous connaissez des personnes qui ont le même genre de problèmes ?
 
-Oui, environ 500 à 700 personnes! 
-
-
+Oui, environ 500 à 700 personnes! ON A TROIS PERSONNES A CONTACTER! 
