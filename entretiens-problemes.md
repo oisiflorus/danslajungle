@@ -40,10 +40,6 @@ A titre personnel nous avons constaté que nous aimons passer du temps dans des 
 - Quand je vais dans un endroit cool, ça m'embête de constater certaines dissonances au niveau eco et au niveau des effets de domination (genre, classe, race). (Exemple des gobelets en plastiques à l'ognion givré)
     - En tant que lieu ou restau friendly, ça m'embête de ne pas toujours être aligné au niveau eco avec les valeurs de mes clients, et que ça génère du bruit.
 
-Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes et leur pénibilité.
-
-- Est ce que tu rencontre des problèmes qui te semlent plus important que ceux-ci (quand il s'agit de fréquenter des lieux ne accord avec tes valeurs) ? 
-
 ## Découvrir le point de vue du client 15 min
 
 - Comment est ce que tu t'y prends pour découvir un nouveau lieu  ?
@@ -51,6 +47,10 @@ Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes
 - Si tu remarque quelque chose qui te choque, comment est ce que tu réagis ? 
 
 ...
+
+Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes et leur pénibilité.
+
+- Est ce que tu rencontre des problèmes qui te semlent plus important que ceux-ci (quand il s'agit de fréquenter des lieux ne accord avec tes valeurs) ? 
 
 ## Terminer l'entretien 2 min 
 
