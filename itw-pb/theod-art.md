@@ -16,7 +16,7 @@ Oui à Montpellier, la table d'épicure par exemple n'est pas connues, et je ne 
 > on trouve certain lieux très agréable mais où il est dommage de constater des comportements pas eco ou pas friendly ?  
   
 "Oui, c'est très dur d'entendre par exemple un patron mal parlé à ses employé.e.s"  
-"Je ne conseillerais pas <un lieu connu> par exemple"  
+"Je conseillerais <un lieu connu> par exemple"  
 Beaucoup de lieux comme le Bonobo, le Grams, pimpon, etc. sont -friendly-. -google- indique par exemple ce type de lieu lgbt+ friendly 
 
 > on pense qu’il est dificile pour les restaurateur et responsables de lieux d’aligner toutes leur pratiques sur des valeurs d’écologie pour des question de temps, de savoirs et de budgets  
