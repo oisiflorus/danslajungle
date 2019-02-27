@@ -27,9 +27,11 @@ Elle se considère engagée,"+" mais pas "++" => pas dans le domaine activiste.
 
 Classement: 
 
-3 > Ca m'embête de constater ou d'être responsable de gaspillage (marc de café, copots de bois...)
-1 > Quand je vais dans une endroits qui semblent friendly, ça m'embête de constater certaines dissonances au niveau eco et au niveau Friendly. (Exemple des gobelets en plastiques à l'ognion givré)
-2 > J'ai du mal à repérer les lieux eco et friendly 
+3 "Ca m'embête de constater ou d'être responsable de gaspillage (marc de café, copots de bois...)3
+
+1 "Quand je vais dans une endroits qui semblent friendly, ça m'embête de constater certaines dissonances au niveau eco et au niveau Friendly. (Exemple des gobelets en plastiques à l'ognion givré)"
+
+2 "J'ai du mal à repérer les lieux eco et friendly "
 
 
 > Vois-tu d'autre problèmes? 
