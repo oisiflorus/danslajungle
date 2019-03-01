@@ -1,4 +1,4 @@
-**Données personnelles **
+**Données personnelles**
 
 ***L'écologie au quotidien***
 
