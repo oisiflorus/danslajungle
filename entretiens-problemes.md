@@ -6,7 +6,7 @@ Nous pensons réaliser un site où on peut repérer les lieux sympas et qui font
 
 ### Le but de l'entretien.
 
-Nous croyons que pour les personnes qui sensibles à ça, il est diffice de trouver des lieux qui y font attention.
+Nous croyons que pour les personnes qui sensibles à ça, il est difficile de trouver des lieux qui y font attention.
 
 Avant d'aller plus loin, on aimerait savoir si vous êtes confrontés aux problèmes que nous avons imaginé.
 
@@ -16,11 +16,9 @@ Je tiens à souligner que nous ne disposons pas encore d'un produit fini et que 
 
 (tester le segment)
 
-- Est ce que l'écologie est un problème auxquel tu penses dans ton quotidien ?
-- Combien de lieux respectueux de ces valeurs tu connais dans ta ville ? Combien tu penses qu'il y en a ? 
+- Combien de lieux engagés pour le respect de l'environnement connais-tu dans ta ville ? Combien tu penses qu'il y en a ? 
 - Est ce que tu peux en citer 3 ? 
-- Est ce que tu cherche à aligner tes pratiques professionnelles avec ces valeurs ? 
-- A quel point vous vous considérez comme un acteur de la transition ? 
+- Arrives-tu à concilier tes pratiques au quotidien et des valeurs respectueuses de l'environnement ? (Pas du tout, un peu, beaucoup, complètement).
 
 ## Raconter une histoire 2 min
 
