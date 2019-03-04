@@ -14,11 +14,14 @@ Je tiens à souligner que nous ne disposons pas encore d'un produit fini et que 
 
 ## Recueillir des données personnelles - 2 min
 
-(tester le segment)
-
-- Combien de lieux engagés pour le respect de l'environnement connais-tu dans ta ville ? Combien tu penses qu'il y en a ? 
-- Est ce que tu peux en citer 3 ? 
-- Arrives-tu à concilier tes pratiques au quotidien et des valeurs respectueuses de l'environnement ? (Pas du tout, un peu, beaucoup, complètement).
+(tester le segment et les alternatives)
+- combien de lieux eco-friendly connais-tu dans ta ville ? 10, 20, 100 ?
+- Est ce que tu peux en citer 2 ? 
+- combien de lieux eco-friendly connais-tu dans une des autres grandes villes que tu fréquentes, Bordeaux par exemple ? 10, 20, 100 ?
+- Est ce que tu peux en citer 2 ? 
+- pourrais-tu classer les discriminations qui te semblent le plus représentées en France ? (O/N) - sexisme, validisme, racisme, classisme
+- ces dernières années, as-tu adapté certaines de tes pratiques pour être plus éco ? et friendly ?
+- est-ce que tes pratiques professionnelles sont alignées sur les valeurs eco ? et friendly ?
 
 ## Raconter une histoire 2 min
 
@@ -35,6 +38,10 @@ A titre personnel nous avons constaté que nous aimons passer du temps dans des 
 - (côté entreprise) Mes choix éco-friendly peuvent mettre en danger la viabilité économique de mon entreprise. 
 - (côté usager) Je ne suis pas au courant des choix éco-friendly des entreprises et des contraintes que ça leur pose. Du coup je ne peux pas en tenir compte dans mes choix et ma relation avec eux.
 
+Demandez de prioriser les 3 problèmes et leur pénibilité.
+
+- Est ce que tu rencontre des problèmes qui te semlent plus important que ceux-ci (quand il s'agit de fréquenter des lieux, des personnes ou des services en accord avec tes valeurs) ? 
+
 ## Découvrir le point de vue du client 15 min
 
 - Comment est ce que tu t'y prends pour découvir un nouveau lieu  ?
@@ -42,10 +49,6 @@ A titre personnel nous avons constaté que nous aimons passer du temps dans des 
 - Si tu remarque quelque chose qui te choque, comment est ce que tu réagis ? 
 
 ...
-
-Demandez ici ou après la discussion de 15 minutes de prioriser les 3 problèmes et leur pénibilité.
-
-- Est ce que tu rencontre des problèmes qui te semlent plus important que ceux-ci (quand il s'agit de fréquenter des lieux, des personnes ou des services en accord avec tes valeurs) ? 
 
 ## Terminer l'entretien 2 min 
 
