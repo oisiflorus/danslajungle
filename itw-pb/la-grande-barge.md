@@ -33,3 +33,10 @@ On est encore fragile économiquement
 On diffuse via -facebook- on a flyé un peu au début
 Quand on fait venir des groupes on essaye de bien les payer, de les déclarer, on veut être cohérents
 Je ne vois pas d'autres problèmes que ceux que tu m'as cité, ils me parlent
+
+## Contacts
+
+bad hunter, brocéliande et du pangolins
+ya aussi la timballe et le ti lichous.
+ya nos amis de l'atelier et du collectif fil qui sont archis et urbanistes.
+enfin ya Le Map le magazine des autres possibles et aussi la tricyclerie qui ont surement tout un paquet de choses très intéressantes à raconter :)
